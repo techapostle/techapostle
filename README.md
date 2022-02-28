@@ -4,13 +4,6 @@
 - 💬 Currently learning [Nodejs](https://nodejs.org/), [C++](https://isocpp.org), [Python](https://python.org) [ROS](https://ros.org/) and [Linux](https://www.linuxfoundation.org/)!
 - 📫 My email: `contact.kiands@gmail.com`
 
-<a href="https://twitter.com/tech_apostle">
-  <img align="left" alt="Kian Dadkhah Twitter" width="22px" src="https://raw.githubusercontent.com/techapostle/techapostle/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kian-dadkhah-019156163/">
-  <img align="left" alt="Kian's LinkedIn" width="22px" src="https://raw.githubusercontent.com/techapostle/techapostle/master/assets/linkedin.svg" />
-</a>
-
 **Languages && tools I can use:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
