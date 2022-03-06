@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Kian Dadkhah](https://www.linkedin.com/in/kian-dadkhah-019156163/).
 
-- 💬 I'm learning [Nodejs](https://nodejs.org/), [C++](https://isocpp.org), [Python](https://python.org) [ROS](https://ros.org/) and [Linux](https://www.linuxfoundation.org/)!
+- 💬 I'm learning [Nodejs](https://nodejs.org/), [C++](https://isocpp.org), [Python](https://python.org), [ROS](https://ros.org/) and [Linux](https://www.linuxfoundation.org/)!
 - 🔧 Currently tinkering with a [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/education-projects/) and a robot kit from [Waveshare](https://www.waveshare.com/)
 - 📫 My email: `contact.kiands@gmail.com`
 
