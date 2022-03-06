@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Kian Dadkhah](https://www.linkedin.com/in/kian-dadkhah-019156163/).
 
 - 💬 I'm learning [Nodejs](https://nodejs.org/), [C++](https://isocpp.org), [Python](https://python.org), [ROS](https://ros.org/) and [Linux](https://www.linuxfoundation.org/)!
-- 🔧 Currently tinkering with a [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/education-projects/) and a robot kit from [Waveshare](https://www.waveshare.com/)
+- 🔧 Currently tinkering with a [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/education-projects/) and a [LiDAR robot kit](https://www.waveshare.com/jetbot-2gb-ai-kit-for-aws.htm) from [Waveshare](https://www.waveshare.com/)
 - 📫 My email: `contact.kiands@gmail.com`
 
 **Languages && tools I can use:**  
@@ -20,9 +20,3 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>](https://www.docker.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>](https://expressjs.com/)
-
-<!-- 📈 my github stats -->
-<!---->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="preethamb97" /> -->
-<!---->
-<!-- ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg) -->
