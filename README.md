@@ -3,7 +3,7 @@
 
 I am a full-stack student developer interested in Machine/Deep Learning, data science, and full-stack software engineering. I can build websites, train models, create small-scale video games. 
 
-I can use a wide range of desktop tools for not just coding, but video/image editing, modeling, and office workflows as well. With my passion for learning, I started my journey with C, and have since expanded my reach to many languages and applications. 
+I can use a wide range of desktop tools for not just coding, but video/image editing, modeling, and office workflows as well. With my passion for learning, I started my journey with C, and have since expanded my reach across many languages and applications. 
 
 - 💬 I'm currently learning [Nodejs](https://nodejs.org/), [C++](https://isocpp.org), [Python](https://python.org), [ROS](https://ros.org/) and [Linux](https://www.linuxfoundation.org/)!
 - 🔧 Tinkering with a [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/education-projects/) and a [LiDAR robot kit](https://www.waveshare.com/jetbot-2gb-ai-kit-for-aws.htm) from [Waveshare](https://www.waveshare.com/)
