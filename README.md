@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello there, I'm [Kian Dadkhah](https://www.linkedin.com/in/kian-dadkhah-019156163/).
 
-I am a full-stack student developer interested in Machine/Deep Learning, data science, and full-stack software engineering. I can build websites, train models, create small-scale video games. 
+I am a full-stack student developer interested in Machine/Deep Learning, data science, and full-stack software engineering. I can build websites, train models, and even create small-scale video games. 
 
 I can use a wide range of desktop tools for not just coding, but video/image editing, modeling, and office workflows as well. With my passion for learning, I started my journey with C, and have since expanded my reach across many languages and applications. 
 
