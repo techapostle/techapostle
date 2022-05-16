@@ -37,7 +37,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 **Websites, Apps, Games, & Tools I've built:**  
 
 - [Seneca Music](https://kiansenecamusic.vercel.app/newReleases)
-- [Restaurant Listing Website](https://mealfresh-kian-12623.herokuapp.com/)
+- [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/)
 - [Static Theatre Website](https://github.com/techapostle/WEB222-Final)
 - Spotify Rest-API Service
 - Restaurant Listing Website Rest-API Service
