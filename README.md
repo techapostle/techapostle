@@ -41,4 +41,8 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - [Static Theatre Website](https://github.com/techapostle/WEB222-Final)
 - Spotify Rest-API Service
 - Restaurant Listing Website Rest-API Service
-- Commandline patient file, records, and queue processor with C++
+- Commandline patient file, records, and queue processor with C++  
+  
+ **Notable Repos:**  
+ 
+ - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)
