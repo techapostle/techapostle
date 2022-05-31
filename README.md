@@ -45,4 +45,5 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
   
  **Notable Repos:**  
  
- - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)
+ - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)  
+ - [dotfiles](https://github.com/techapostle/dotfiles)
