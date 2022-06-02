@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello there, I'm [Kian Dadkhah](https://www.linkedin.com/in/kian-dadkhah-019156163/).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"> Hello there, I'm [Kian Dadkhah](https://www.linkedin.com/in/kian-dadkhah-019156163/).
 
 I am a student developer interested in Machine/Deep Learning, data science, and full-stack software engineering. I can build websites, train models, and even create small-scale video games. 
 
