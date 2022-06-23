@@ -39,6 +39,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - [Seneca Music](https://kiansenecamusic.vercel.app/newReleases)
 - [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/)
 - [Static Theatre Website](https://github.com/techapostle/WEB222-Final)
+- [Scary Horror Game](https://github.com/techapostle/ScaryHorrorGame)
 - Spotify Rest-API Service
 - Restaurant Listing Website Rest-API Service
 - Commandline patient file, records, and queue processor with C++  
