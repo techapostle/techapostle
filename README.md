@@ -9,7 +9,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - 🔧 Tinkering with a [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/education-projects/) and a [LiDAR robot kit](https://www.waveshare.com/jetbot-2gb-ai-kit-for-aws.htm).
 - 📫 My email: `contact.kiands@gmail.com`
 
-**Languages && tools I can use:**  
+  **Languages && tools I can use:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
@@ -26,7 +26,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>](https://expressjs.com/)    
   
   
-**What I'm working on:**  
+  **What I'm working on:**  
 - [PyCrawler](https://github.com/techapostle/PyCrawler)
 - [Realtor.ca API Wrapper](https://github.com/techapostle/realtorca)
 - Real Estate Portfolio + Listings website
@@ -43,9 +43,9 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - Restaurant Listing Website Rest-API Service
 - Commandline patient file, records, and queue processor with C++  
   
-**Open Source Contributions:**  
+  **Open Source Contributions:**  
 - [ecosse3/nvim](https://github.com/ecosse3/nvim)  
   
-**Notable Repos:**  
+  **Notable Repos:**  
  - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)  
  - [dotfiles](https://github.com/techapostle/dotfiles)
