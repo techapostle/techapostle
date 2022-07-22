@@ -32,8 +32,8 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - Real Estate Portfolio + Listings website
 - My portfolio website built with Reactjs
 - Command-Responsive ROS Jetbot w/ Autonomous Navigation & Object+Gesture Recognition  
-- Python Gesture Recognition
-
+- Python Gesture Recognition  
+  
 **Websites, Apps, Games, & Tools I've built:**  
 - [Seneca Music](https://kiansenecamusic.vercel.app/newReleases)
 - [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/)
@@ -42,10 +42,10 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - Spotify Rest-API Service
 - Restaurant Listing Website Rest-API Service
 - Commandline patient file, records, and queue processor with C++  
-
+  
 **Open Source Contributions:**  
-- [ecosse3/nvim](https://github.com/ecosse3/nvim)
- 
+- [ecosse3/nvim](https://github.com/ecosse3/nvim)  
+  
 **Notable Repos:**  
  - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)  
  - [dotfiles](https://github.com/techapostle/dotfiles)
