@@ -27,7 +27,6 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
   
   
 **What I'm working on:**  
-
 - [PyCrawler](https://github.com/techapostle/PyCrawler)
 - [Realtor.ca API Wrapper](https://github.com/techapostle/realtorca)
 - Real Estate Portfolio + Listings website
@@ -36,7 +35,6 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - Python Gesture Recognition
 
 **Websites, Apps, Games, & Tools I've built:**  
-
 - [Seneca Music](https://kiansenecamusic.vercel.app/newReleases)
 - [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/)
 - [Static Theatre Website](https://github.com/techapostle/WEB222-Final)
@@ -44,8 +42,10 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 - Spotify Rest-API Service
 - Restaurant Listing Website Rest-API Service
 - Commandline patient file, records, and queue processor with C++  
-  
- **Notable Repos:**  
+
+**Open Source Contributions:**  
+- [ecosse3/nvim](https://github.com/ecosse3/nvim)
  
+**Notable Repos:**  
  - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)  
  - [dotfiles](https://github.com/techapostle/dotfiles)
