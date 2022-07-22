@@ -26,7 +26,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 
 
 **What I'm working on:**  
-- [LiveSignTranslator](git@github.com/techapostle/LiveSignTranslator)
+- [LiveSignTranslator](https://github.com/techapostle/LiveSignTranslator/)
 - [PyCrawler](https://github.com/techapostle/PyCrawler)
 - [Realtor.ca API Wrapper](https://github.com/techapostle/realtorca)
 - Real Estate Portfolio + Listings website
