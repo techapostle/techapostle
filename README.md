@@ -45,7 +45,7 @@ I can use a wide range of desktop tools for not just coding, but video/image edi
 
 
 **Open Source Contributions:**  
-- [ecosse3/nvim](https://github.com/ecosse3/nvim)  
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - a non-minimal, IDE-like neovim config.  
 
 
 **Notable Repos:**  
