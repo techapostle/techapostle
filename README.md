@@ -49,5 +49,5 @@ I am a student developer interested in Machine/Deep Learning, data science, and 
 
 
 **Notable Repos:**  
- - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp)  
- - [dotfiles](https://github.com/techapostle/dotfiles)
+ - [DSA_Cpp](https://github.com/techapostle/DSA_Cpp) - Data structures & algorithms course work and content
+ - [dotfiles](https://github.com/techapostle/dotfiles) - My old dotfiles for arco/arch linux (new one coming soon)
