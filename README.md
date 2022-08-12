@@ -26,22 +26,22 @@ I am a student developer interested in Machine/Deep Learning, data science, and 
 
 
 **What I'm working on:**  
-- [LiveSignTranslator](https://github.com/techapostle/LiveSignTranslator/)
-- [PyCrawler](https://github.com/techapostle/PyCrawler)
-- [Realtor.ca API Wrapper](https://github.com/techapostle/realtorca)
-- Real Estate Portfolio + Listings website
-- My portfolio website built with Reactjs
-- Command-Responsive ROS Jetbot w/ Autonomous Navigation & Object+Gesture Recognition  
+- [LiveSignTranslator](https://github.com/techapostle/LiveSignTranslator/) - ASL Gesture/action recognition using LSTM model
+- [PyCrawler](https://github.com/techapostle/PyCrawler) - Website crawler bot
+- [Realtorca](https://github.com/techapostle/realtorca) - A realtor.ca API wrapper
+- Real Estate Site - Real Estate Portfolio + Listings website
+- Portfolio - My portfolio website built with Reactjs
+- Jetbot - ROS Jetbot w/ Autonomous Navigation & Object & Gesture Recognition  
 
 
 **Websites, Apps, Games, & Tools I've built:**  
-- [Seneca Music](https://kiansenecamusic.vercel.app/newReleases)
-- [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/)
-- [Static Theatre Website](https://github.com/techapostle/WEB222-Final)
-- [Scary Horror Game](https://github.com/techapostle/ScaryHorrorGame)
-- Spotify Rest-API Service
-- Restaurant Listing Website Rest-API Service
-- Commandline patient file, records, and queue processor with C++  
+- [Seneca Music](https://kiansenecamusic.vercel.app/newReleases) - Music explorer using Spotify API
+- [Food Delivery Website](https://mealfresh-kian-12623.herokuapp.com/) - Food listing that relies on API
+- [Static Theatre Website](https://github.com/techapostle/WEB222-Final) - A static movie theatre website
+- [Scary Horror Game](https://github.com/techapostle/ScaryHorrorGame) - A not-so-scarry horror game project using UE4
+- Spotify Rest-API Service - A rest-API Spotify wrapper
+- Restaurant Listing Website Rest-API Service - Food Delivery Website API
+- Commandline patient file, records, and queue processor with C++ - Files have been lost
 
 
 **Open Source Contributions:**  
