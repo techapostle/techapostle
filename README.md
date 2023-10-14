@@ -26,8 +26,8 @@ I am a student developer interested in Machine/Deep Learning, data science, and 
 
 
 **What I'm working on:**  
-- [Bombastic Engine](https://github.com/techapostle/BombasticEngine) - An advanced 2D game engine
-- [Cherub](https://github.com/techapostle/CherubApp) - An all-in-one social platform for Christians and biblical scholars.
+- [Bombastic Engine](https://github.com/techapostle/BombasticEngine) - An advanced 2D game engine written in C++.
+- [Cherub](https://github.com/techapostle/CherubApp) - An all-in-one social platform for Christians and biblical scholars, built with React Native, Redux, TailwindCSS, and Firebase.
 - [LiveSignTranslator](https://github.com/techapostle/LiveSignTranslator/) - ASL Gesture/action recognition using LSTM model
 - [PyCrawler](https://github.com/techapostle/PyCrawler) - Website crawler bot
 - [Realtorca](https://github.com/techapostle/realtorca) - A realtor.ca API wrapper
