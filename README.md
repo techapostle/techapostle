@@ -22,9 +22,7 @@ I care deeply about building things that are not just clever, but *useful* — f
 
 ---
 
-## 🔐 Project Work (NDA)
-
-I currently lead and contribute to multiple internal tools under NDA, including:
+I currently lead and contribute to multiple internal tools including:
 
 - A privacy-first AI platform.
 - A distributed system for synchronized data broadcasting across devices.
