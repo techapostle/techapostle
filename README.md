@@ -12,24 +12,4 @@ I care deeply about building things that are not just clever, but *useful* — f
 
 ---
 
-## 🧪 Notable Skills & Focus Areas
-
-- **Systems Programming:** Performance-critical applications, C++ abstractions, memory optimization, and build tooling.
-- **Developer Tools & DX:** Command-line interfaces, modular backends, and scripting to automate workflows.
-- **Cross-Platform Engineering:** Building consistent behavior across Linux, web, and embedded platforms.
-- **AI & ML Applications:** Practical use of LLMs and vision models, including local inference workflows.
-- **Infrastructure:** Containerized deployments, CI/CD pipelines, and cloud/on-prem orchestration.
-
----
-
-I currently lead and contribute to multiple internal tools including:
-
-- A privacy-first AI platform.
-- A distributed system for synchronized data broadcasting across devices.
-- Infrastructure to support developer-focused, role-based coordination and secure deployment workflows.
-
-All code and implementation details are confidential and protected under internal IP agreements.
-
----
-
 Thanks for stopping by! Feel free to connect or reach out.
