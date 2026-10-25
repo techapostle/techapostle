@@ -25,7 +25,7 @@ run my own infrastructure, and spend a lot of time tinkering and making AI tooli
 🎨 **Graphics:** Vulkan, Slang, Dear ImGui  
 🌍 **Web:** React, Next.js, Django  
 🗄️ **Data:** PostgreSQL, SQLite  
-🏗️ **Infra:** Docker, Linux, CMake, Proxmox, Google Cloud Run, Git  
+🏗️ **Infra:** Docker, Linux, CMake, Proxmox, Cloudflare, AWS, Git  
 🔌 **Networking:** Cisco IOS, VLANs/STP/inter-VLAN routing  
 
 ### ⚙️ Environment
