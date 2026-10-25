@@ -6,7 +6,7 @@ run my own infrastructure, and spend a lot of time tinkering and making AI tooli
 Currently a Freelance Software Developer and a CS tutor on Varsity Tutors.  
 Pursuing CCNA Certification for Network Engineering & Security.  
 
-### Projects
+### Latest Projects
 - **Satori Engine**: Real-time 3D engine in C++23 on Vulkan.
   Render graph, GPU-driven two-phase culling, visibility buffer, shadows and sky;
   archetype ECS with scenes and prefabs; Jolt physics; input record/replay;
