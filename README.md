@@ -12,7 +12,7 @@ run my own infrastructure, and spend a lot of time tinkering and making AI tooli
   archetype ECS with scenes and prefabs; Jolt physics; input record/replay;
   offline glTF asset cooker; Slang shaders; Dear ImGui dev overlay.
 - ☦️ **PersianOrthodox**: Bilingual English/Persian Orthodox Christian web platform.
-  Next.js frontend, Django backend, deployed on Google Cloud Run.
+  Next.js frontend, Django backend, deployed on DigitalOcean.
 - 📈 **Quant trading system**: Self-hosted research and backtesting platform on LEAN/QuantRocket,
   with a multi-agent loop (observer, hypothesis generator, backtest critic) for
   continuous strategy development.
@@ -25,7 +25,7 @@ run my own infrastructure, and spend a lot of time tinkering and making AI tooli
 🎨 **Graphics:** Vulkan, Slang, Dear ImGui  
 🌍 **Web:** React, Next.js, Django  
 🗄️ **Data:** PostgreSQL, SQLite  
-🏗️ **Infra:** Docker, Linux, CMake, Proxmox, Cloudflare, AWS, Git  
+🏗️ **Infra:** Docker, Linux, CMake, Proxmox, Cloudflare, DigitalOcean, AWS, Git  
 🔌 **Networking:** Cisco IOS, VLANs/STP/inter-VLAN routing  
 
 ### ⚙️ Environment
