@@ -1,15 +1,37 @@
-# 👋 Hi, I'm Kian
+# Hi, I'm Kian
 
-I’m a software developer with a passion for building secure, efficient, and developer-focused tools. My work spans systems programming, cross-platform engineering, and applied AI — often with an emphasis on privacy, modularity, and performance.
+Full-stack developer in Toronto. I build web platforms, write engine code in C++,
+run my own infrastructure, and spend a lot of time tinkering and making AI tooling do real work.
 
-I care deeply about building things that are not just clever, but *useful* — from low-level infrastructure to polished user-facing experiences. Whether I’m optimizing algorithms, architecting full-stack pipelines, or designing privacy-preserving ML workflows, I’m always aiming to ship clean, maintainable, and meaningful code.
+Currently a Freelance Software Developer and a CS tutor on Varsity Tutors.
+Pursuing CCNA Certification for Network Engineering & Security.
 
-- 🧠 Areas of interest: system design, compiler tooling, developer infrastructure, embedded AI, and cross-platform interoperability.
-- 🛡 Currently building developer tools and distributed systems.
-- 🧰 Languages & tools I work with daily: `C++`, `TypeScript`, `Python`, `React`, `PostgreSQL`, `Linux`, `Vim`, and `Zsh`.
-- 🏗 Often working at the intersection of **developer experience**, **system performance**, and **privacy-first architecture**.
-- 📫 Reach me at: `contact.kiands@gmail.com`
+### Projects
+- **Satori Engine**: Real-time 3D engine in C++23 on Vulkan.
+  Render graph, GPU-driven two-phase culling, visibility buffer, shadows and sky;
+  archetype ECS with scenes and prefabs; Jolt physics; input record/replay;
+  offline glTF asset cooker; Slang shaders; Dear ImGui dev overlay.
+- **PersianOrthodox**: Bilingual English/Persian Orthodox Christian web platform.
+  Next.js frontend, Django backend, deployed on Google Cloud Run.
+- **Quant trading system**: Self-hosted research and backtesting platform on LEAN/QuantRocket,
+  with a multi-agent loop (observer, hypothesis generator, backtest critic) for
+  continuous strategy development.
+- **Homelab**: Segmented network on Cisco 3750/2900-series gear behind a firewall,
+  with VLANs per trust zone. Proxmox, TrueNAS, Caddy, Pi-hole, Tailscale, and a local
+  LLM stack (Ollama + AnythingLLM) serving Qwen models across the network.
 
----
+### Stack
+**Languages:** C++, Python, TypeScript, C, Java, SQL
+**Graphics:** Vulkan, Slang, Dear ImGui
+**Web:** React, Next.js, Django
+**Data:** PostgreSQL, SQLite
+**Infra:** Docker, Linux, CMake, Proxmox, Google Cloud Run, Git
+**Networking:** Cisco IOS, VLANs/STP/inter-VLAN routing
 
-Thanks for stopping by! Feel free to connect or reach out.
+### Environment
+**OS**: Arch Linux
+**Shell**: Zsh
+**Editor**: Neovim
+
+### Contact
+📫 contact.kiands@gmail.com
